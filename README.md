@@ -5,5 +5,5 @@
 Para rodar esse projeto na sua máquina por favor digite
 
 ```
-apt get install apache2
+node app.js
 ```
